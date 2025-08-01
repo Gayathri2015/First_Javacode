@@ -9,7 +9,7 @@ public class Student {
     }
 
     public void display(){
-        System.out.println("The name of the student is " + name + " the rollno is " + rollno);
+        System.out.println("The name of the student is chaged in the github " + name + " the rollno is " + rollno);
     }
 
     public static void main(String[] args){
